@@ -1,7 +1,7 @@
 ### Ay up! 👋
 My name is William, but in this strange world I normally go by the alias of **MrSandyWilly**. When I'm not working on some very important and useful project, I'm probably working on some other unimportant and useless one. If I'm not doing that, I'm being lazy playing videogames, watching Netflix, or just twiddling my thumbs. That happens a lot.
 
-## Specialties
+## Languages
 I started my computer geek journey about 8 years ago when I was given a Raspberry Pi by school and decided to use it to learn Python. Since then I've come along way...
 
 **I'm most confident in:**
