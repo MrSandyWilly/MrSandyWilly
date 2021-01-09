@@ -1,4 +1,6 @@
-### Hi there 👋
+## Welcome 👋
+### My name is William
+But I also go by the alias of **MrSandyWilly**!
 
 <!--
 **MrSandyWilly/MrSandyWilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
