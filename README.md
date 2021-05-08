@@ -16,6 +16,8 @@ If you for some strange reason should want to contact me, you can either email m
 
 I'll see ya around!
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y34KBGP)
+
 <!--
 **MrSandyWilly/MrSandyWilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
