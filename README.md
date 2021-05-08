@@ -8,6 +8,7 @@ I started my computer geek journey about 8 years ago when I was given a Raspberr
 * Python
 * PHP
 * HTML & CSS
+* Rust? _We'll see_
 
 I use these languages for most of my projects, but give me the chance to use another language and I'll have a crack! I frequently make completely incompetent mistakes, but most of the time I like to think that I can get the job done 😬
 
