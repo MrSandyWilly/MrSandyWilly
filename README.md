@@ -13,7 +13,7 @@ I started my computer geek journey about 8 years ago when I was given a Raspberr
 I use these languages for most of my projects, but give me the chance to use another language and I'll have a crack! I frequently make completely incompetent mistakes, but most of the time I like to think that I can get the job done 😬
 
 ### Reach Out
-If you for some strange reason should want to contact me, you can either email me at **sandfojsandy1@gmail.com** or drop me a message on my Discord: **MrSandyWilly#1896**
+If you for some strange reason should want to contact me, you can either email me at **mrsandywilly@pm.me** or drop me a message on my Discord: **MrSandyWilly#6969**
 
 I'll see ya around!
 
